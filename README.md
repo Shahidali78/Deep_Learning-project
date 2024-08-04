@@ -1,4 +1,6 @@
-# Anomaly Detection using Lag-Llama Model
+# Lag-Llama: Towards Foundation Models for
+Probabilistic Time Series Forecasting
+
 
 ## Project Report
 
